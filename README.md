@@ -90,4 +90,4 @@ Certifique-se de ter o **Java Development Kit (JDK)**, versão 11 ou superior, i
 
 ##  UML - Diagrama de Classes
 
-![Diagrama de Classes](UML-Diagram-Restaurant.png)
+![Diagrama de Classes](diagramaUML-SemanaVidaPlena.png)
