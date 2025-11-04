@@ -1,4 +1,4 @@
-# Projeto 1: Sistema de Gestão para Restaurante (Semana Vida Plena)
+Sistema de Gestão para o evento *Semana Vida Plena*
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Done-green)
 
