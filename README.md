@@ -6,11 +6,11 @@
 
 Este projeto é um sistema integrado que simula a gestão de diferentes serviços focados em bem-estar: uma Clínica, um Restaurante e um Gerenciador de Eventos. Além da gestão operacional, o ponto forte do sistema é a sua capacidade de gerar **insights valiosos** sobre o comportamento dos participantes, permitindo uma visão estratégica sobre a "jornada do cliente" através dos diferentes estabelecimentos.
 
-## Integrantes 
+## Integrantes
 
-*   Maria Clara de Oliveira Barbosa
-*   Jhon Victor Ramos Martins
-*   Maria Luiza da Silva Monteiro
+*   **Jhon Victor Ramos Martins** - [GitHub](https://github.com/Jhon-Victor-Ramos) | [LinkedIn](https://www.linkedin.com/in/jhon-victor-ramos/)
+*   **Maria Clara de Oliveira Barbosa** - [GitHub](https://github.com/Clara-Barbosa) | [LinkedIn](https://www.linkedin.com/in/maria-clara-de-oliveira-barbosa-07457b364/)
+*   **Maria Luiza da Silva Monteiro** - [GitHub](https://github.com/Maria-Luiza-ds-Monteiro) | [LinkedIn](https://www.linkedin.com/in/maria-luiza-monteiro-6a7246280/)
 
 ## Funcionalidades Principais
 
@@ -91,3 +91,19 @@ Certifique-se de ter o **Java Development Kit (JDK)**, versão 11 ou superior, i
 ##  UML - Diagrama de Classes
 
 ![Diagrama de Classes](diagramaUML-SemanaVidaPlena.png)
+
+---
+
+## Amostra do Programa em Execução
+
+<img width="1265" height="527" alt="image" src="https://github.com/user-attachments/assets/d4066003-4812-4175-a8da-f24befc452e4" />
+<img width="1288" height="535" alt="image" src="https://github.com/user-attachments/assets/b0f6fc8d-a7d4-48f6-a142-5ace7c2fb39a" />
+<img width="1282" height="604" alt="image" src="https://github.com/user-attachments/assets/4b1bf7c9-25f4-4b58-961b-31eb13803755" />
+<img width="1282" height="549" alt="image" src="https://github.com/user-attachments/assets/b0d2f91a-7c87-4a57-9bc2-c339bef75f84" />
+<img width="1284" height="551" alt="image" src="https://github.com/user-attachments/assets/568a0ceb-06fb-43cd-880e-531121ebbb66" />
+<img width="1273" height="485" alt="image" src="https://github.com/user-attachments/assets/0ec9dc68-9d75-4b89-a335-0cc497d8101f" />
+<img width="1277" height="520" alt="image" src="https://github.com/user-attachments/assets/11a06ce0-b5fd-47ca-9216-8b0f9fff8093" />
+<img width="1278" height="512" alt="image" src="https://github.com/user-attachments/assets/e2ea1f13-e8b1-4648-b089-3749ef8f6f03" />
+<img width="1278" height="497" alt="image" src="https://github.com/user-attachments/assets/9595039e-dc2f-461b-a7bc-516db932008c" />
+<img width="15" height="4" alt="image" src="https://github.com/user-attachments/assets/e8f7338e-e68a-49cb-9ee2-e4aaae251427" />
+<img width="1281" height="488" alt="image" src="https://github.com/user-attachments/assets/b8630818-bcde-433f-bfdb-c63d1164b8de" />
