@@ -97,6 +97,9 @@ Certifique-se de ter o **Java Development Kit (JDK)**, versão 11 ou superior, i
 ## Amostra do Programa em Execução
 
 <img width="1265" height="527" alt="image" src="https://github.com/user-attachments/assets/d4066003-4812-4175-a8da-f24befc452e4" />
+
+* **↓ Perguntas sendo respondidas de forma ordenada (*painel do gerente*) ↓**
+
 <img width="1288" height="535" alt="image" src="https://github.com/user-attachments/assets/b0f6fc8d-a7d4-48f6-a142-5ace7c2fb39a" />
 <img width="1282" height="604" alt="image" src="https://github.com/user-attachments/assets/4b1bf7c9-25f4-4b58-961b-31eb13803755" />
 <img width="1282" height="549" alt="image" src="https://github.com/user-attachments/assets/b0d2f91a-7c87-4a57-9bc2-c339bef75f84" />
